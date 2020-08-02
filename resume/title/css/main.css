@@ -1,0 +1,24 @@
+.menu{
+	background-color: #000000;
+}
+.title{
+	color: #FFFFFF;
+	font-size: 40px;
+	font-family: 標楷體;
+	text-align: center;
+	line-height: 70px;
+}
+.text{
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+}
+.text1{
+	color: #ffffff;
+	font-size: 30px;
+	text-decoration: none;
+	align: center;
+}
+li.color {
+	color: #ffffff;
+}
